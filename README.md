@@ -1,0 +1,1 @@
+# pythagorian-triplets
